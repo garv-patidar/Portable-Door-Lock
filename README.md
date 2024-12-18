@@ -43,6 +43,9 @@ Here’s a video showcasing making process of Portable Door Lock:
 ---
 
 ### Learn More  
-For detailed documentation and code, visit the [repository](https://github.com/user-attachments/assets/16fe4028-567a-4c98-9d57-e439e2b96560).
+
+For detailed documentation visit the [Project Report.pdf](./Project%20Report.pdf)
 
 ---
+
+
